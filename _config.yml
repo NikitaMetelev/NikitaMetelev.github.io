@@ -9,9 +9,9 @@ last_name: Метелёв
 email: economteoretic@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Никита Метелёв. Data Scientist. ML, CV, NLP.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: #>
+  #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: ml, nlp, cv, portfolio-website # add your own keywords or leave empty
 lang: ru # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌗 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -47,7 +47,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true
