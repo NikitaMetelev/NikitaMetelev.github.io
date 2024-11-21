@@ -4,8 +4,8 @@ permalink: /cv/
 title: Резюме
 nav: true
 nav_order: 5
-cv_pdf: CVdsgit.pdf
-description: 
+cv_pdf: michael_vasiljev.pdf
+description:
 toc:
   sidebar: left
 ---
